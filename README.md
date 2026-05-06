@@ -46,7 +46,12 @@
 > ![React](https://img.shields.io/badge/React-20232A?style=flat-square)
 > ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square)  
 > [![Live Demo](https://img.shields.io/badge/-Live_Demo-4285F4?style=flat-square&logo=google-chrome)](https://your-demo-link.com)
+---
 
+# 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=TUSHAR-SINGH-JI&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+
+---
 ## 📊 GitHub Stats
 <p align="center">
   <img width="25%" src="https://github-readme-stats.vercel.app/api?username=tushar-singh-ji&show_icons=true&theme=dark" alt="GitHub Stats">
