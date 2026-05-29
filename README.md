@@ -48,15 +48,38 @@
 > [![Live Demo](https://img.shields.io/badge/-Live_Demo-4285F4?style=flat-square&logo=google-chrome)](https://your-demo-link.com)
 ---
 
-# 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=TUSHAR-SINGH-JI&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+
 
 ---
-## 📊 GitHub Stats
+## 📈 GitHub Stats
+
 <p align="center">
-  <img width="25%" src="https://github-readme-stats.vercel.app/api?username=tushar-singh-ji&show_icons=true&theme=dark" alt="GitHub Stats">
-  <img width="25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tushar-singh-ji&layout=compact&theme=dark" alt="Top Languages">
-  <img width="25%" src="https://github-readme-streak-stats.herokuapp.com/?user=tushar-singh-ji&theme=dark" alt="GitHub Streak">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=TUSHAR-SINGH-JI&show_icons=true&theme=tokyonight&hide_border=true"
+    width="45%"
+  />
+  <img
+    src="https://streak-stats.demolab.com?user=TUSHAR-SINGH-JI&theme=tokyonight&hide_border=true"
+    width="45%"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TUSHAR-SINGH-JI&theme=tokyonight"
+    width="45%"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TUSHAR-SINGH-JI&theme=tokyonight"
+    width="45%"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=TUSHAR-SINGH-JI&theme=tokyo-night&hide_border=true&area=true"
+    width="95%"
+  />
 </p>
 
 ## 🌐 Connect With Me
